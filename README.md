@@ -1,4 +1,4 @@
-<h1>CRYPTO-BİG BULL</h1>
+<h1>CRYPTO-BIG BULL</h1>
 
 This project is a web application designed for users to monitor and delve into cryptocurrency data comprehensively. Utilizing the MVC (Model-View-Controller) architecture, it's built with React.js, offering a robust framework for dynamic web experiences.
 
@@ -19,4 +19,5 @@ This project is a web application designed for users to monitor and delve into c
 <h2>Screenshot
 
 ![](/public/crypto.gif)
+
 # CRYPTO-B-G-BULL
